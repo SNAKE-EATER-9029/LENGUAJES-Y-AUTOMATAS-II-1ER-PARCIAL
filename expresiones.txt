@@ -1,0 +1,4 @@
+int x = 2 + 2 * ( 2 - 4 ) ; if
+float resultado = 12.5 + ( 12 - 8 ) ; return
+int total = 12 * ( 12 - 14 ) ;
+double suma = 5 + 3 ;
